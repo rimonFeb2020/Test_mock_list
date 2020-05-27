@@ -8,7 +8,7 @@ The App illustrate search and pagination of listing data from [3 JSON files](app
 Signed Build
  ------------
  You can find the signed build from firebase app distribution
- [Download build](https://appdistribution.firebase.dev/i/RhranAWE)
+ [Download build](https://appdistribution.firebase.dev/i/4TzvxbMp)
 
 Screenshots
 -----------
